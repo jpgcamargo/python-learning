@@ -1,0 +1,10 @@
+fn = input("Enter your first name: ")
+ln = input("Enter your last name: ")
+full_name = f"{fn} {ln}"
+
+print(full_name.title())
+print(f"{fn.upper()[0]}{ln.upper()[0]}")
+
+full_name_no_spaces = full_name.replace(" ", "")
+
+print(f"Length without spaces: {len(full_name_no_spaces)} letters")
