@@ -11,7 +11,7 @@ building skills from the basics to real projects.
 | Day | Topic | Progress |
 |-----|-------|----------|
 | 0   | Environment Setup | ✅ |
-| 1   | Variables, Data Types, Print | ⬜ |
+| 1   | Variables, Data Types, Print | ✅ |
 | 2   | Strings & Basic Math | ⬜ |
 | 3   | Lists & Tuples | ⬜ |
 | 4   | Conditions (`if/else`) | ⬜ |
